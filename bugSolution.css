@@ -1,0 +1,8 @@
+/* bugSolution.css */
+#myElement {
+  color: blue !important; /* Use !important only when absolutely necessary */
+}
+.myClass {
+  font-size: 16px;
+}
+/* More specific selectors should appear later to override less specific ones */
