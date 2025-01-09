@@ -1,0 +1,1 @@
+The CSS specificity rules can lead to unexpected behavior when styles from multiple selectors conflict.  For example, an inline style might override a more specific class or ID selector, or a style in a later-loaded stylesheet might override an earlier one.
